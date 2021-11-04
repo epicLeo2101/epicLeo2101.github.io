@@ -3,6 +3,8 @@
 ## Adventure Game: Juno's Morning
 ![images](https://raw.githubusercontent.com/epicLeo2101/epicLeo2101.github.io/main/Screenshot.png)
 
+A game that is about my pet dog everyday morning. Your objective is to eat as many food as you can. Depending on your choices, you'll either have eaten everything you could possibly eat or eat absolutely nothing.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
