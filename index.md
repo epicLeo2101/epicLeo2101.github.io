@@ -5,8 +5,8 @@ Works I have completed.
 
 ## Projects
 
-<details>
-<summary>Juno's Morning </summary>
+
+Juno's Morning 
 
   ## Adventure Game: Juno's Morning
   ![images](https://raw.githubusercontent.com/epicLeo2101/epicLeo2101.github.io/main/Screenshot.png)
@@ -22,4 +22,4 @@ Before I made my adventure game I had to practice with these little projects to 
 3. [List](https://github.com/epicLeo2101/List)
 4. [ListRPGDemo](https://github.com/epicLeo2101/ListRPGDemo)
   
-</details>
+
