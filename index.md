@@ -6,7 +6,7 @@ Works I have completed.
 # Projects
 
 
-  ## Adventure Game: Juno's Morning 
+  **Adventure Game: Juno's Morning**
   
   ![images](https://raw.githubusercontent.com/epicLeo2101/epicLeo2101.github.io/main/Screenshot.png)
   
